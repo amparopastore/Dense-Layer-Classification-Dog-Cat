@@ -1,10 +1,5 @@
 # Dog vs Cat Image Classification Using Dense Layers
 
-## Author: Amparo Godoy Pastore
-## Date: June 2nd, 2024
-## Course: CAP 6619 - Deep Learning
-## Professor: Xingquan Zhu
-
 ## Overview
 This repository contains the code and data for Homework 2, Question 7 of the CAP 6619 - Deep Learning course at Florida Atlantic University. The task involves building and evaluating dense layer neural networks to classify images from the Dogs vs Cats dataset.
 
